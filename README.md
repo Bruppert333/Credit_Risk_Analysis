@@ -5,17 +5,17 @@ The purpose of this analysis was to first use RandomOverSampler and SMOTE algori
 
 ## Results (Balanced Accuracy Scores of all 6 Machine Learning Models Used)
 * Naive Random Oversampling
-![Deliverable_1](Resources/Deliverable_1).
+![Deliverable_1](Resources/Deliverable_1.png).
 * SMOTE Oversampling
-![Deliverable_2](Resources/Deliverable_2).
+![Deliverable_2](Resources/Deliverable_2.png).
 * Cluster Centroids Algorithm
-![Deliverable_3](Resources/Deliverable_3).
+![Deliverable_3](Resources/Deliverable_3.png).
 * SMOTEENN
-![Deliverable_4](Resources/Deliverable_4).
+![Deliverable_4](Resources/Deliverable_4.png).
 * Balanced Random Forest Classifier
-![Deliverable_5](Resources/Deliverable_5).
+![Deliverable_5](Resources/Deliverable_5.png).
 * Easy Ensemble AdaBoost Classifier
-![Deliverable_6](Resources/Deliverable_6).
+![Deliverable_6](Resources/Deliverable_6.png).
 
 
 ## Summary
