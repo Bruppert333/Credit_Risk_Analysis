@@ -30,4 +30,4 @@ The purpose of this analysis was to first use RandomOverSampler and SMOTE algori
 
 
 ## Summary
-Overall, this was not a easy challenge for me. Quite frankly I'm not entirely sure I understand still. If I had to pick a model to use it would have to be the 
+Overall, this was not a easy challenge for me. Quite frankly I'm not entirely sure I understand still. If I had to pick a model to use it would have to be the Easy Ensemble AdaBoost Classifier because that kicked back the best results. 
